@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-App is deployed [here](https://github.com/prithviraj-maurya/Age-Group-Classifier-React/). 
+App is deployed [here](https://prithviraj-maurya.github.io/Age-Group-Classifier-React/). 
 
 ## Available Scripts
 
