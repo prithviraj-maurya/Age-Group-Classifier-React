@@ -1,0 +1,6 @@
+- Declarations error for React
+    - https://stackoverflow.com/questions/41462729/typescript-react-could-not-find-a-declaration-file-for-module-react-material
+
+- Project reference for react app for ML
+    - https://heartbeat.fritz.ai/building-an-image-recognition-app-using-onnx-js-c7147f4f291b
+
