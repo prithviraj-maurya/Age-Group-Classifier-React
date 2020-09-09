@@ -27,6 +27,8 @@ const INITIAL_STATE = {
     selectedImage: null,
 }
 
+const classes = ['Adults', 'Teenagers', 'Toddlers'];
+
 class App extends React.Component {
   state  = { ...INITIAL_STATE };
   // session = InferenceSession();
@@ -137,9 +139,9 @@ class App extends React.Component {
         <Styled.Description>{this.state.modelLoading && 'Loading Model, this make take a bit longer please hold'} {this.state.sessionRunning && 'Processing Image'}</Styled.Description>
         <Styled.ResultContainer>
           {this.state.output ? 
-          this.state.output.map((item: OutputItem) => {
+          this.state.output.map((item: OutputItem, index) => {
             return (<Styled.ResultItem key={item.id}>
-              <p>{item.name}</p>
+              <p>{classes[index]}</p>
               <span>{(item.probability * 100).toFixed(2)}%</span>
             </Styled.ResultItem>);
           }) : null}
