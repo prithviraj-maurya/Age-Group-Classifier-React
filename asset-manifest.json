@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/prithviraj-maurya/Age-Group-Classifier-React/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/prithviraj-maurya/Age-Group-Classifier-React/static/js/main.616a1d48.chunk.js",
-    "main.js.map": "/prithviraj-maurya/Age-Group-Classifier-React/static/js/main.616a1d48.chunk.js.map",
-    "runtime-main.js": "/prithviraj-maurya/Age-Group-Classifier-React/static/js/runtime-main.dcba3f68.js",
-    "runtime-main.js.map": "/prithviraj-maurya/Age-Group-Classifier-React/static/js/runtime-main.dcba3f68.js.map",
-    "static/js/2.46f3eb5b.chunk.js": "/prithviraj-maurya/Age-Group-Classifier-React/static/js/2.46f3eb5b.chunk.js",
-    "static/js/2.46f3eb5b.chunk.js.map": "/prithviraj-maurya/Age-Group-Classifier-React/static/js/2.46f3eb5b.chunk.js.map",
-    "index.html": "/prithviraj-maurya/Age-Group-Classifier-React/index.html",
-    "precache-manifest.11cd32540ac8cf24efaf462031b84a9d.js": "/prithviraj-maurya/Age-Group-Classifier-React/precache-manifest.11cd32540ac8cf24efaf462031b84a9d.js",
-    "service-worker.js": "/prithviraj-maurya/Age-Group-Classifier-React/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/prithviraj-maurya/Age-Group-Classifier-React/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.46f3eb5b.chunk.js.LICENSE.txt": "/prithviraj-maurya/Age-Group-Classifier-React/static/js/2.46f3eb5b.chunk.js.LICENSE.txt"
+    "main.css": "/Age-Group-Classifier-React/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Age-Group-Classifier-React/static/js/main.c0f2024e.chunk.js",
+    "main.js.map": "/Age-Group-Classifier-React/static/js/main.c0f2024e.chunk.js.map",
+    "runtime-main.js": "/Age-Group-Classifier-React/static/js/runtime-main.02e6bed1.js",
+    "runtime-main.js.map": "/Age-Group-Classifier-React/static/js/runtime-main.02e6bed1.js.map",
+    "static/js/2.46f3eb5b.chunk.js": "/Age-Group-Classifier-React/static/js/2.46f3eb5b.chunk.js",
+    "static/js/2.46f3eb5b.chunk.js.map": "/Age-Group-Classifier-React/static/js/2.46f3eb5b.chunk.js.map",
+    "index.html": "/Age-Group-Classifier-React/index.html",
+    "precache-manifest.323169685f710ea896f9013c9dc12f88.js": "/Age-Group-Classifier-React/precache-manifest.323169685f710ea896f9013c9dc12f88.js",
+    "service-worker.js": "/Age-Group-Classifier-React/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Age-Group-Classifier-React/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.46f3eb5b.chunk.js.LICENSE.txt": "/Age-Group-Classifier-React/static/js/2.46f3eb5b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dcba3f68.js",
+    "static/js/runtime-main.02e6bed1.js",
     "static/js/2.46f3eb5b.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.616a1d48.chunk.js"
+    "static/js/main.c0f2024e.chunk.js"
   ]
 }
