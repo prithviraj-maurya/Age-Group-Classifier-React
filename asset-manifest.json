@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.0472fcd8.chunk.js",
-    "main.js.map": "/static/js/main.0472fcd8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cdfe76b6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cdfe76b6.js.map",
-    "static/js/2.46f3eb5b.chunk.js": "/static/js/2.46f3eb5b.chunk.js",
-    "static/js/2.46f3eb5b.chunk.js.map": "/static/js/2.46f3eb5b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b0d591b3940749aaf2b96879f6f8cd2b.js": "/precache-manifest.b0d591b3940749aaf2b96879f6f8cd2b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.46f3eb5b.chunk.js.LICENSE.txt": "/static/js/2.46f3eb5b.chunk.js.LICENSE.txt"
+    "main.css": "/prithviraj-maurya/Age-Group-Classifier-React/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/prithviraj-maurya/Age-Group-Classifier-React/static/js/main.616a1d48.chunk.js",
+    "main.js.map": "/prithviraj-maurya/Age-Group-Classifier-React/static/js/main.616a1d48.chunk.js.map",
+    "runtime-main.js": "/prithviraj-maurya/Age-Group-Classifier-React/static/js/runtime-main.dcba3f68.js",
+    "runtime-main.js.map": "/prithviraj-maurya/Age-Group-Classifier-React/static/js/runtime-main.dcba3f68.js.map",
+    "static/js/2.46f3eb5b.chunk.js": "/prithviraj-maurya/Age-Group-Classifier-React/static/js/2.46f3eb5b.chunk.js",
+    "static/js/2.46f3eb5b.chunk.js.map": "/prithviraj-maurya/Age-Group-Classifier-React/static/js/2.46f3eb5b.chunk.js.map",
+    "index.html": "/prithviraj-maurya/Age-Group-Classifier-React/index.html",
+    "precache-manifest.11cd32540ac8cf24efaf462031b84a9d.js": "/prithviraj-maurya/Age-Group-Classifier-React/precache-manifest.11cd32540ac8cf24efaf462031b84a9d.js",
+    "service-worker.js": "/prithviraj-maurya/Age-Group-Classifier-React/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/prithviraj-maurya/Age-Group-Classifier-React/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.46f3eb5b.chunk.js.LICENSE.txt": "/prithviraj-maurya/Age-Group-Classifier-React/static/js/2.46f3eb5b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cdfe76b6.js",
+    "static/js/runtime-main.dcba3f68.js",
     "static/js/2.46f3eb5b.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.0472fcd8.chunk.js"
+    "static/js/main.616a1d48.chunk.js"
   ]
 }
