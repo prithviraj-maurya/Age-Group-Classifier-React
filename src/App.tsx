@@ -27,8 +27,6 @@ const INITIAL_STATE = {
     selectedImage: null,
 }
 
-const classes = ['Adults', 'Teenagers', 'Toddlers'];
-
 class App extends React.Component {
   state  = { ...INITIAL_STATE };
   // session = InferenceSession();
@@ -130,7 +128,8 @@ class App extends React.Component {
     return (
       <React.Fragment>
         <canvas id="input-canvas" width={this.imageSize} height={this.imageSize} />
-        <Styled.Heading>ONNX Model</Styled.Heading>
+        <Styled.Heading style={{color: 'black'}}>ONNX Model</Styled.Heading>
+        <Styled.Description style={{color: 'black'}}>Click on image to predict</Styled.Description>
         <Styled.ImagesRow>
           {SQUEEZENET_IMAGE_URLS.map((item) => (
             <Styled.ImageContainer data-selected={this.state.selectedImage === item.value} data-background={item.value} key={item.value} onClick={() => this.loadImageToCanvas(item.value)} />
@@ -141,7 +140,7 @@ class App extends React.Component {
           {this.state.output ? 
           this.state.output.map((item: OutputItem, index) => {
             return (<Styled.ResultItem key={item.id}>
-              <p>{classes[index]}</p>
+              <p>{item.name}</p>
               <span>{(item.probability * 100).toFixed(2)}%</span>
             </Styled.ResultItem>);
           }) : null}

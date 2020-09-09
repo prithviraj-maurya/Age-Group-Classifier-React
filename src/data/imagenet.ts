@@ -1,3 +1,9 @@
+export const ageGroups: {[id: number]: string[]} = {
+  '0': ['1','Adults'],
+  '1': ['2','Teenagers'],
+  '2': ['3','Toddlers']
+};
+
 export const imagenetClasses: {[id: number]: string[]} = {
     '0': ['n01440764', 'tench'],
     '1': ['n01443537', 'goldfish'],
