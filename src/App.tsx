@@ -127,7 +127,8 @@ class App extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <canvas id="input-canvas" width={this.imageSize} height={this.imageSize} />
+        <canvas id="input-canvas" width={this.imageSize} height={this.imageSize} 
+        style={{paddingTop: '10px', paddingLeft: '45%'}}/>
         <Styled.Heading style={{color: 'black'}}>ONNX Model</Styled.Heading>
         <Styled.Description style={{color: 'black'}}>Click on image to predict</Styled.Description>
         <Styled.ImagesRow>
