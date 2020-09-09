@@ -54,10 +54,10 @@ class App extends React.Component {
         this.setState({
           modelLoading: true,
         });
-        // await this.session.loadModel('./models/squeezenet.onnx');
-        // await this.session.loadModel('./models/age_group_clf_pretrained_resnet.onnx');
-        // await this.session.loadModel('./models/age_group_clf_custom.onnx');
-        await this.session.loadModel('./models/age_group_clf_custom_basic.onnx');
+        // await this.session.loadModel(process.env.PUBLIC_URL + '/models/squeezenet.onnx');
+        // await this.session.loadModel(process.env.PUBLIC_URL + '/models/age_group_clf_pretrained_resnet.onnx');
+        // await this.session.loadModel(process.env.PUBLIC_URL + '/models/age_group_clf_custom.onnx');
+        await this.session.loadModel(process.env.PUBLIC_URL + '/models/age_group_clf_custom_basic.onnx');
         this.setState({
           modelLoaded: true,
           modelLoading: false,

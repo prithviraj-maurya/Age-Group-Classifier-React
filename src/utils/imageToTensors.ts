@@ -23,7 +23,7 @@ export function preProcess(ctx: CanvasRenderingContext2D): Tensor {
   ops.divseq(dataProcessedTensor.pick(0, 2, null, null), 0.225);
   // const tensor = new Tensor(new Float32Array(3 * width * height), 'float32', [0, 3, width, height]);
   // for custom model
-  const tensor = new Tensor(new Float32Array(3 * width * height), 'float32', [0, 3, width, height]);
+  const tensor = new Tensor(new Float32Array(3 * width * height), 'float32', [1, 3, width, height]);
   (tensor.data as Float32Array).set(dataProcessedTensor.data);
   return tensor;
 }

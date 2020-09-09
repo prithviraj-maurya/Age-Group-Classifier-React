@@ -4,3 +4,5 @@
 - Project reference for react app for ML
     - https://heartbeat.fritz.ai/building-an-image-recognition-app-using-onnx-js-c7147f4f291b
 
+- Code sniipets in medium article
+    - https://medium.com/@vegetablecode/6-ways-to-embed-source-code-in-medium-articles-a0b2f0ce24c7
