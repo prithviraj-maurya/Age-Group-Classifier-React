@@ -1,0 +1,16 @@
+Resources:
+
+	- Challenge: https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-friendship-day/machine-learning/friendship-goals-4-8aa488d0/
+
+	- Kaggle: https://www.kaggle.com/radadiyamohit/hackerearth-friendship-goal-deep-learning
+
+	- Image scraping: https://github.com/somvirs57/image_scraping
+
+
+
+Info:
+
+	- Task is to classify images of groups into toddlers, teenagers, or adults
+	- They have provided test images only for prediction
+	- Data has to be gathered by referring to sample images provided
+	- train.csv has to be prepared by referring to submission.csv
