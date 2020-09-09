@@ -1,6 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-App is deployed [here](https://prithviraj-maurya.github.io/Age-Group-Classifier-React/). 
+App is deployed [here](https://prithviraj-maurya.github.io/Age-Group-Classifier-React/).
+
+Link to my Kaggle [kernel](https://www.kaggle.com/prithviraj7387/classify-age-groups-custom-model) where i trained my custom classifier from scratch using Pytorch.
+
+Link to [notebook](https://console.paperspace.com/te7qp7xse/notebook/pr5gy5h8s) where I used a pretrained model and trained the last layers with my data which gave me a very better accuracy than my custom model.
 
 ## Available Scripts
 
