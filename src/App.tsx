@@ -131,7 +131,7 @@ class App extends React.Component {
         style={{paddingTop: '10px', paddingLeft: '45%'}}/>
         <Styled.Heading style={{color: 'black'}}>ONNX Model</Styled.Heading>
         <Styled.Description style={{color: 'black'}}>Click on image to predict</Styled.Description>
-        <Styled.ImagesRow>
+        <Styled.ImagesRow style={{marginLeft: '20%'}}>
           {SQUEEZENET_IMAGE_URLS.map((item) => (
             <Styled.ImageContainer data-selected={this.state.selectedImage === item.value} data-background={item.value} key={item.value} onClick={() => this.loadImageToCanvas(item.value)} />
           ))}
