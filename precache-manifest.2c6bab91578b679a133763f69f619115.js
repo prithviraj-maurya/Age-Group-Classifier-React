@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19799cd9a9394619f75a8ec9ec0cf1b0",
+    "revision": "5ca83b6fa1e85d1d6ac0c1fe07cc12cb",
     "url": "/Age-Group-Classifier-React/index.html"
   },
   {
-    "revision": "097cb4021824230a3540",
+    "revision": "21a395721c1ad413a1e8",
     "url": "/Age-Group-Classifier-React/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Age-Group-Classifier-React/static/js/2.46f3eb5b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "097cb4021824230a3540",
-    "url": "/Age-Group-Classifier-React/static/js/main.dff5c666.chunk.js"
+    "revision": "21a395721c1ad413a1e8",
+    "url": "/Age-Group-Classifier-React/static/js/main.c0b87714.chunk.js"
   },
   {
     "revision": "9b6e6d17450bf9e83a48",
