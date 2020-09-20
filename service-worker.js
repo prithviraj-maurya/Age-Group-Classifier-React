@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Age-Group-Classifier-React/precache-manifest.f75a4cff1d8d0e9eb296e1703b9d11ec.js"
+  "/Age-Group-Classifier-React/precache-manifest.51eaa2a84e6c646ab8b7483c63796fc0.js"
 );
 
 self.addEventListener('message', (event) => {
