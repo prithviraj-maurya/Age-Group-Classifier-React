@@ -1,3 +1,13 @@
+# Age Group Classification — Pytorch, Onxx & React
+
+![image](https://user-images.githubusercontent.com/26644174/121781094-dc976200-cbc0-11eb-878b-b797f7e8b98e.png)
+
+
+### Definning the problem:
+* To celebrate this precious relationship of friendship on the upcoming International Friendship Day, we bring a deep learning challenge to you: #FriendshipGoals. The Anthropology department of an Ivy League school is planning to study the impact of friendship at different life stages. You have been hired as a deep learning specialist to assist their team in this project.
+* Task is to build a deep learning model that analyzes an image of a gathering among friends, detects the age group of the gathering, and classifies them into groups of toddlers, teenagers, or adults.
+* Link to my [Medium article](https://prithviraj-maurya.medium.com/age-group-classification-pytorch-6cce766cc562)
+---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 App is deployed [here](https://prithviraj-maurya.github.io/Age-Group-Classifier-React/).
